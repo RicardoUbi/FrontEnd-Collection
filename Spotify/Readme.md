@@ -25,7 +25,8 @@ Este projeto é uma oportunidade para explorar e aprimorar habilidades no desenv
 1. Clone o repositório:
 
    ```terminal
-   git clone https://github.com/RicardoUbi/Spotify-Alura.git
+   git clone https://github.com/RicardoUbi/FrontEnd-Collection.git
+   cd Spotify
 
 2. Instale as bibliotecas:
    

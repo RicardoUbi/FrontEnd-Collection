@@ -22,7 +22,8 @@ Este é um projeto de Audiobook desenvolvido durante o evento de Intensivão de 
 1. Clone o repositório:
 
    ```terminal
-   git clone https://github.com/RicardoUbi/Front-End - Collection.git
+   git clone https://github.com/RicardoUbi/FrontEnd-Collection.git
+   cd AudioBook
 
 2. Execute o programa
    * Para hospedagem utilizei a extensão do vscode (Live server), Inicie ela, e tudo rodara na web.

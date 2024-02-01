@@ -24,11 +24,11 @@ Este é um projeto de Cardapio de Restaurante desenvolvido durante o evento de I
 1. Clone o repositório:
 
    ```terminal
-   git clone https://github.com/RicardoUbi/Front-End - Collection.git
+   git clone https://github.com/RicardoUbi/FrontEnd-Collection.git
+   cd Cardapio
 
-2. Entre nas pastas:
+2. Entre na pasta:
     ```terminal
-    cd Cardapio
     cd Cardapio-Restaurante
 
 3. Execute o programa:

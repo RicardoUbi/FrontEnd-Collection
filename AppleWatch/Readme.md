@@ -22,7 +22,8 @@ Este é um projeto de Página de Apple Watch desenvolvido durante o evento de In
 1. Clone o repositório:
 
    ```terminal
-   git clone https://github.com/RicardoUbi/Front-End - Collection.git
+   git clone https://github.com/RicardoUbi/FrontEnd-Collection.git
+   cd AppleWatch
 
 2. Execute o programa
    * Para hospedagem utilizei a extensão do vscode (Live server), Inicie ela, e tudo rodara na web.
