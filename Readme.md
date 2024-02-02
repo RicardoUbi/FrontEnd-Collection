@@ -8,7 +8,8 @@ Bem-vindo ao repositório que contém alguns projetos de Front-End que desenvolv
     - [Página de Produto interativa](./AppleWatch): Página de produto interativa de AppleWatch.
     - [AudioBook](./AudioBook): Plataforma interativa para ouvir Audiobooks.
     - [Spotify](./Spotify): Página do Spotify com recursos de pesquisa e elementos visuais idênticos aos originais.
-    - [Cardapio de Restaurante](./Cardapio): Cardapio interativo, com diversas categorias.  
+    - [Cardapio de Restaurante](./Cardapio): Cardapio interativo, com diversas categorias.
+    - [Chat Online](./Chat): Chat online focado na implementação backend com JavaScript.
 ---
 
 **Nota:** Em breve mais projetos estarão disponiveis.
