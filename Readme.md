@@ -31,10 +31,10 @@ Para rodar o projeto localmente, é necessário iniciar o **back-end** e o **fro
 ```
 
 ### Passo a Passo
-1. **Clone o repositório e entre na branch correta:**
+1. **Clone o repositório e confira se esta na branch correta:**
    ```sh
-   git clone <URL_DO_REPOSITORIO>
-   git checkout <NOME_DA_BRANCH>
+   git clone https://github.com/RicardoUbi/FrontEnd-Collection.git
+   git branch 
    ```
 
 2. **Inicie o Back-end**
@@ -55,7 +55,7 @@ Para rodar o projeto localmente, é necessário iniciar o **back-end** e o **fro
 ### Passo a Passo - Demonstração
 
 <div align="center">
-  <img src="imgs/SpotifyUse.gif" alt="Demonstração de usabilidade do Spotify Study" style="display:block; margin:auto; margin-bottom:20px;">
+  <img src="imgs/InitProject.gif" alt="Como iniciar projeto" style="display:block; margin:auto; margin-bottom:20px;">
 </div>
 
 O front-end estará disponível em `http://localhost:5173` (ou outra porta que o Vite indicar), e o back-end rodará na `http://localhost:3001`.
@@ -64,4 +64,3 @@ O front-end estará disponível em `http://localhost:5173` (ou outra porta que o
 
 ---
 Desenvolvido com ❤️ por RicardoUbi.
-
